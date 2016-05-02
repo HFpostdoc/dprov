@@ -38,6 +38,10 @@ Prepping for meeting with PIs
 - Dataverse Workshop?
 - ESA 2016 Latebreaking?
 - RMA meeting = possible group of users
+- Add me to RDataTracker repo
+ - Re-structure to make installable from github
+ - ESS
+ - Rmarkdown and Sweave
 
 The end result will include a library for use by any software
 developer to collect and use provenance, a demonstration of that

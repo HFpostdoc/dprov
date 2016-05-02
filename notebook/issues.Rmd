@@ -1,0 +1,94 @@
+RDataTracker Issues
+===================
+
+98] Add test for all possible data types 
+
+- ?
+
+97] Very long node name 
+
+96] RMarkdown 
+
+- Rmarkdown and Sweave would be good to integrate
+- Literate computing has people wrap their code into these files
+- Could also be a good way to integrate across software languages
+
+95] Include standard output in provenance 
+
+92] Overwrite option 
+
+91] github-install 
+
+- Requires re-structuring of repo
+- Development documents should be moved out
+- New folder structure should be R man vignette DESCRIPTION NAMESPACE, etc.
+
+90] Include more attributes 
+
+89] Default ddg directory name
+
+88] Default directory
+
+87] Use relative
+
+85] Add more file-reading functions 
+
+82] Leave tryCatch node out of the ddg 
+
+79] Investigate parallelism 
+
+- This is a real challenge because of the dependence on .Rhistory
+- Requires investigating the variety of parallel computing tools and
+  batch systems
+
+78] ddg.run error in emacs using ESS 
+
+- This issue arises largely from how ESS handles .Rhistory
+
+77] Creating file in nodes 
+
+76] ddg call as last line of a function results in mismatched Start...Finish nodes 
+
+75] Unsure how to use ddg.graphic.out 
+
+72] Automatic annotation of lapply, sapply, and vapply
+
+71] Automatic annotation of tryCatch functions 
+
+70] Restoring files from checkpoints 
+
+64] Chain together revised versions of a data
+
+63] Record elapsed cpu time 
+
+59] R parser does not find functions correctly 
+
+56] Performance Report Inaccuracies 
+
+55] Font issues with Java 8 
+
+54] Adding start/finish nodes with ddg.function/return.value 
+
+52] S3 Objects and Reference classes 
+
+51] Returns nodes link to wrong function node within recursive functions 
+
+46] Using ddg.procedure to annotate steps within a function
+
+44] parent.frame and getting the environment 
+
+36] Possible writes of variables enhancement
+
+35] Ant test script when run from eclipse question
+
+33] Ant test script on Windows Computers bug
+
+30] Dealing with RData Nodes enhancement help wanted
+
+21] Save ddg.txt enhancement help wanted
+
+7] Monitor RStudio releases for fix to Windows timestamp problem. bug
+
+- Where is this at?
+
+1] Add flag to DDG enhancement
