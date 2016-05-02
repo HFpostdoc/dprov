@@ -1,0 +1,38 @@
+###Data Provenance Grant
+
+###Comments from MKL
+
+###19 May 2014
+
+## - Consider defining the need for data tracking first
+## - What is the audience? Semantic granularities is difficult language
+## - What does the trace look like?
+## - What is the memory space required for a typical provenance?
+## - Compare provenance to version control systems
+## - Does source code encourage annotation?
+## - Connect the background to the Cases through the context of data intensive methods
+## - Most ecologists are currently not trained in appropriate software best practices and proveneance would help.
+## - The ecological example is good. Ecology is becoming more data driven and needs similar tools to improve the field.
+## - Long Term: share data and analyses?
+## - Research Plan: add text on utilizing open-source development tools?
+## - Research Plan: develop through education, open-access
+## - R provides multiple toolboxes that could be useful for analyzing provenance data, e.g., igraph, sna, network, etc.
+## - The network approach is good, but jargon intensive, focusing on graphics and perhaps a graphical apporach for analyzing provenance data would be beneficial
+## - Putting the query model before the network description might be helpful
+
+#Main Questions
+- What is the computational/data overhead?
+- Is there a way to show what a user might see?
+- Will computer scientists be reviewing this? If so, include an
+example of how computer science uses versioning and software tracking
+tools, but many scientists generally don't. E.g., biologists are
+generally not even trained in software best practices (see attached paper)
+- An additional long-term goal might be to share data for synthesis
+and meta-analyses
+- If open-source development is desirable, a line or two on Git/Github
+driven software development could be added
+- The graph theoretic approach is good, but jargon
+intensive. Depending on the possible reviewers, I suggest minimizing
+by moving the definitions into the figure and/or figure legend. 
+- On first pass it seems as though the query model should come before
+the graph theoretic description.

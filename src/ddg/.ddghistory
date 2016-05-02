@@ -1,0 +1,10 @@
+history()
+library(rdatatracker)
+library(Rdatatracker)
+library(RDataTracker)
+?RDataTracker
+ddg.init()
+##-ddg-- Tue Apr  5 17:36:12 2016 ------##
+x=100
+x*20
+ddg.save()

@@ -1,0 +1,41 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Apr  5 12:28:05 2016
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22275 59285 376980 0) (desktop . "206") "hermes@hermes.local" nil nil ((((tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . dark) (foreground-color . "#eeeeec") (background-color . "#2e3434") (font . "tty") (height . 28) (width . 102) (modeline . t) (unsplittable) (menu-bar-lines . 1) (frameset--id . "A179-79D6-4372-B3F3") (frameset--mini t) (minibuffer . t)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 2) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 8) (min-pixel-width . 10) (min-pixel-height-ignore . 4) (min-pixel-width-ignore . 2) (min-pixel-height-safe . 2) (min-pixel-width-safe . 2)) vc (pixel-width . 102) (pixel-height . 26) (total-width . 102) (total-height . 26) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 102) (pixel-height . 13) (total-width . 102) (total-height . 13) (normal-height . 0.5) (normal-width . 1.0) (buffer "*R*" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins 1) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 7488) (start . 6899))) (leaf (last . t) (pixel-width . 102) (pixel-height . 13) (total-width . 102) (total-height . 13) (normal-height . 0.5) (normal-width . 1.0) (buffer "notebook.md" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 654) (start . 231)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("the" "histo" "r" " " "<<" "wou"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/Projects/HF/Dprov/src/" "~/Projects/HF/Dprov/src/dprov.R" "~/Projects/HF/Dprov/notebook/" "~/Projects/HF/Dprov/bin/RDataTracker/testDocs/UsingRDataTrackerTests.tex" "~/Projects/HF/Dprov/notebook/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/hermes/Projects/HF/Dprov/notebook/notebook.md"
+  "notebook.md"
+  'markdown-mode
+  '(auto-fill-mode)
+  654
+  '(556 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/hermes/Projects/HF/Dprov/src/dprov.R"
+  "dprov.R"
+  'ess-mode
+  '(eldoc-mode)
+  34
+  '(2 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
