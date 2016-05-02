@@ -31,11 +31,32 @@ Proposed Projects
 
 Prepping for meeting with PIs
 
+Rstudio notes 
+Dataverse workshop
+
+AME back in January 
+
+Rstudio meeting?
+- todo list 
+- literate computing
+- 
+
+- Bayesian machine learning example 
+
+- data sources, mixing streams 
+
+- Sydne's paper 
+
+- Thomas arrives on July 1
+
+
 - Questions about grant goals
  - Need the final proposal
 - Paper target
- - MEE? R Journal? Journal of Statistical Software?
+ - Software Practice and Experience 
 - Dataverse Workshop?
+ - 2 hours 
+ - go home and use it 
 - ESA 2016 Latebreaking?
 - RMA meeting = possible group of users
 - Add me to RDataTracker repo
