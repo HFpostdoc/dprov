@@ -32,9 +32,63 @@ Proposed Projects
 Prepping for meeting with PIs
 
 - Questions about grant goals
- - Outreach?
- - Dataverse?
+ - Need the final proposal
 - Paper target
  - MEE? R Journal? Journal of Statistical Software?
-- Flagstaff conference
- -  
+- Dataverse Workshop?
+- ESA 2016 Latebreaking?
+- RMA meeting = possible group of users
+
+The end result will include a library for use by any software
+developer to collect and use provenance, a demonstration of that
+library in both the R and Little-JIL. The different teams serve as
+platforms and testbeds for one another: The MHC team is a testbed and
+critical audience for the Harvard libraries, while the Harvard Forest
+team is a *testbed and critical audience* for the R and Little-JIL
+tools. The final test is the value that *added provenance
+capabilities* bring to the scientific results produced by the Harvard
+Forest team.
+
+Goals:
+
+- "Bringing the users to the tools"
+- Reconciling provenance at multiple semantic granularities
+- Capturing detailed provenance at the level of a programming language
+- Defining precisely aspects of provenance required for different use
+cases
+- Making provenance accessible to scientists
+- API Design
+- RDataTracker library
+- Scientific applications using provenance
+- Intellectual Merit = bridging the gap between provenance capture and
+use
+- Broader Impact = environmental science, omics, physics and data
+  mining applications. Presentation at ecology meetings. 
+
+- Research Plan
+ 1. Layering in PASS
+ 2. A Graphical Model of Provenance
+ 3. Library Architecture
+ 4. Provenance Reconciliation
+ 5. Provenance in support of Use Cases
+ 6. Responding to provenance queries
+ 7. API Design
+
+- Engineering Management and Sustainability Plan
+ 1. Sustainability Plan = maintaining software for the long term
+
+- Project Plan
+ 1. Core Provenance Library
+
+- Education and Outreach
+
+- Results from Prior NSF Support
+ 1. PQL: A Path Query Language
+ 2. Support for Atomic Sequences of File System Operations
+ 3. Harvard Forest Long Term Ecological Research
+  - Historical legacies of landuse
+  - Climatic change
+  - Ecosystem trajectories
+  - Strong biogeochemical resiliency
+  - Effective ecological interpretation
+  - Engage early with decision-makers
